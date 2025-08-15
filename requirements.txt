@@ -2,3 +2,6 @@ Flask
 Pandas
 Matplotlib
 Seaborn
+# Additional dependencies for better functionality
+NumPy
+Requests
